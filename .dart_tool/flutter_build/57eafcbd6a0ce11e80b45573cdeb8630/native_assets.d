@@ -1,1 +1,0 @@
- F:\\10.\ Programming\\Flutter\\Manutor\\manutor\\manutor\\.dart_tool\\flutter_build\\57eafcbd6a0ce11e80b45573cdeb8630\\native_assets.yaml: 

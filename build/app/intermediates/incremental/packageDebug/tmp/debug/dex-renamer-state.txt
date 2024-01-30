@@ -1,4 +1,0 @@
-#Sun Jan 21 15:39:47 WIB 2024
-base.0=F\:\\10. Programming\\Flutter\\Manutor\\manutor\\manutor\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
